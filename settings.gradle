@@ -1,0 +1,2 @@
+rootProject.name='UI Design App'
+include ':app'
